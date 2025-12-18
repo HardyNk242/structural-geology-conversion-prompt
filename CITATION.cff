@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this prompt in your research or software, please cite it as below."
+
+title: "Structural Geology Conversion Prompt for Large Language Models"
+version: 1.0.0
+date-released: 2025-01-01
+
+authors:
+  - family-names: Nkodia
+    given-names: Hardy
+    affiliation: "Structural Geology and Tectonics"
+    orcid: ""   # optional, you can add later
+
+repository-code: "https://github.com/HardyNk242/structural-geology-conversion-prompt"
+
+abstract: >
+  A strict, clarification-first system prompt for Large Language Models (LLMs)
+  to convert structural geology planar measurements between Quadrant, Azimuth,
+  Right-Hand Rule (RHR), and Dip/Dipdir notations. The prompt enforces geometric
+  consistency, avoids silent assumptions, and returns results in tabular form
+  for reproducible scientific workflows.
+
+keywords:
+  - structural geology
+  - strike and dip
+  - right-hand rule
+  - dip direction
+  - geological notation
+  - large language models
+  - prompt engineering
+  - geoscience methods
+
+license: MIT
+
+preferred-citation:
+  type: software
+  authors:
+    - family-names: Nkodia
+      given-names: Hardy
+  title: "Structural Geology Conversion Prompt for Large Language Models"
+  version: 1.0.0
+  year: 2025
+  url: "https://github.com/HardyNk242/structural-geology-conversion-prompt"
