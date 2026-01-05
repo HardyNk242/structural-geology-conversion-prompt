@@ -7,9 +7,9 @@ date-released: 2025-01-01
 
 authors:
   - family-names: Nkodia
-    given-names: Hardy
-    affiliation: "Structural Geology and Tectonics"
-    orcid: ""   # optional, you can add later
+    given-names: Hardy Medry Dieu-Veil
+    affiliation: Marien Ngouabi University
+    orcid: https://orcid.org/0000-0001-6919-6863 
 
 repository-code: "https://github.com/HardyNk242/structural-geology-conversion-prompt"
 
